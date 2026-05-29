@@ -1,12 +1,20 @@
 {"name": "World Cup 2026",
  "matches": 
   [{"round": "Matchday 1",
-    "date": "2026-05-29",
+    "date": "2026-05-28",
     "time": "13:00 UTC-6",
     "team1": "Mexico",
     "team2": "South Africa",
     "group": "Group A",
-    "ground": "Mexico City"},
+    "ground": "Mexico City",
+    "goals1": 
+     [{"name": "Gazinsky", "minute": 12},
+      {"name": "Cheryshev", "minute": 43},
+      {"name": "Cheryshev", "minute": 90, "offset": 1},
+      {"name": "Dzyuba", "minute": 71},
+      {"name": "Golovin", "minute": 90, "offset": 4}],
+    "goals2": []
+    },
    {"round": "Matchday 1",
     "date": "2026-06-11",
     "time": "20:00 UTC-6",
